@@ -1,6 +1,6 @@
 organization := "com.rbmhtechnology"
 
-name := "eventuate-test"
+name := "eventuate-crdt-example"
 
 version := "0.1-SNAPSHOT"
 
